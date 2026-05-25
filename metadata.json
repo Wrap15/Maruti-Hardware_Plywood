@@ -1,0 +1,6 @@
+{
+  "name": "Maruti Hardware & Plywood",
+  "description": "Premium supplier of hardware, plywood, laminates, modular kitchen accessories, PVC panels, ACP sheets, door fittings, wardrobe accessories, and interior materials in Kamrej, Surat, Gujarat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
